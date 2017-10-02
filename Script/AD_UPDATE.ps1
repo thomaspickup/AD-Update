@@ -1,3 +1,8 @@
+# Created by Thomas Pickup 
+# Latest Rev 02/10/2017
+# ToDo: 
+# Add in additional user fields in AD
+
 # User Defined Variables
 $csvlocation = "c:\ADUPDATE_TEST.csv"
 $domain = "dc=domain,dc=com" 
